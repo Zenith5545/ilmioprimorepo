@@ -8,3 +8,4 @@ ciae amiche
 - comasina
 - affori fn
 - affori centro
+- dergano
