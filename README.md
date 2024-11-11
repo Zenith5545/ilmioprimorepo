@@ -7,3 +7,4 @@ ciae amiche
 ### Metro gialla
 - comasina
 - affori fn
+- affori centro
