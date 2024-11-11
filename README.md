@@ -6,3 +6,4 @@ ciae amiche
 ## fermate della metro di milano
 ### Metro gialla
 - comasina
+- affori fn
