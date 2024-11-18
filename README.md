@@ -15,3 +15,4 @@ ciae amiche
 - centrale fs
 ## Metro verde
 - caiazzo
+- loreto
