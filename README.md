@@ -17,3 +17,4 @@ ciae amiche
 - turati
 - montenapoleone
 - duomo
+- missori
