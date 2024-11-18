@@ -19,3 +19,4 @@ ciae amiche
 - duomo
 - missori
 - crocetta
+- p.ta romana
