@@ -25,3 +25,4 @@ ciae amiche
 - corvetto
 - porto di mare
 - rogoredo fs
+- san donato
