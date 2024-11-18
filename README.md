@@ -13,3 +13,4 @@ ciae amiche
 - zara
 - sondrio
 - centrale fs
+- repubblica
