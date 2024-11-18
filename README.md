@@ -16,3 +16,4 @@ ciae amiche
 - repubblica
 - turati
 - montenapoleone
+- duomo
