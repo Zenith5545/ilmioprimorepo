@@ -26,3 +26,4 @@ ciae amiche
 - porto di mare
 - rogoredo fs
 - san donato
+dio
