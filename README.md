@@ -18,3 +18,4 @@ ciae amiche
 - montenapoleone
 - duomo
 - missori
+- crocetta
