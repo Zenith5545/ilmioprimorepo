@@ -12,3 +12,4 @@ ciae amiche
 - maciachini
 - zara
 - sondrio
+- centrale fs
