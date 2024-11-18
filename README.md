@@ -11,3 +11,4 @@ ciae amiche
 - dergano
 - maciachini
 - zara
+- sondrio
