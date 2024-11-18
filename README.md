@@ -10,3 +10,4 @@ ciae amiche
 - affori centro
 - dergano
 - maciachini
+- zara
