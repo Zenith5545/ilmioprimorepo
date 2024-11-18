@@ -18,3 +18,4 @@ ciae amiche
 - loreto
 - piola
 - lambrate fs
+- udine
