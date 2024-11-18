@@ -24,3 +24,4 @@ ciae amiche
 - brenta
 - corvetto
 - porto di mare
+- rogoredo fs
